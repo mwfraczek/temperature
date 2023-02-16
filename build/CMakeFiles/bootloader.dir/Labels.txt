@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/michaelfraczek/projects/esp/temperature/build/CMakeFiles/bootloader
+/home/michaelfraczek/projects/esp/temperature/build/CMakeFiles/bootloader.rule
+/home/michaelfraczek/projects/esp/temperature/build/CMakeFiles/bootloader-complete.rule
+/home/michaelfraczek/projects/esp/temperature/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/michaelfraczek/projects/esp/temperature/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/michaelfraczek/projects/esp/temperature/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/michaelfraczek/projects/esp/temperature/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/michaelfraczek/projects/esp/temperature/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/michaelfraczek/projects/esp/temperature/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/michaelfraczek/projects/esp/temperature/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
