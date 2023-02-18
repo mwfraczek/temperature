@@ -567,6 +567,13 @@
 /home/michaelfraczek/projects/esp/temperature/build/esp-idf/spiffs/CMakeFiles/install.dir
 /home/michaelfraczek/projects/esp/temperature/build/esp-idf/spiffs/CMakeFiles/install/local.dir
 /home/michaelfraczek/projects/esp/temperature/build/esp-idf/spiffs/CMakeFiles/install/strip.dir
+/home/michaelfraczek/projects/esp/temperature/build/esp-idf/u8g2/CMakeFiles/__idf_u8g2.dir
+/home/michaelfraczek/projects/esp/temperature/build/esp-idf/u8g2/CMakeFiles/edit_cache.dir
+/home/michaelfraczek/projects/esp/temperature/build/esp-idf/u8g2/CMakeFiles/rebuild_cache.dir
+/home/michaelfraczek/projects/esp/temperature/build/esp-idf/u8g2/CMakeFiles/list_install_components.dir
+/home/michaelfraczek/projects/esp/temperature/build/esp-idf/u8g2/CMakeFiles/install.dir
+/home/michaelfraczek/projects/esp/temperature/build/esp-idf/u8g2/CMakeFiles/install/local.dir
+/home/michaelfraczek/projects/esp/temperature/build/esp-idf/u8g2/CMakeFiles/install/strip.dir
 /home/michaelfraczek/projects/esp/temperature/build/esp-idf/ulp/CMakeFiles/__idf_ulp.dir
 /home/michaelfraczek/projects/esp/temperature/build/esp-idf/ulp/CMakeFiles/edit_cache.dir
 /home/michaelfraczek/projects/esp/temperature/build/esp-idf/ulp/CMakeFiles/rebuild_cache.dir

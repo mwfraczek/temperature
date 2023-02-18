@@ -56,6 +56,7 @@
 /home/michaelfraczek/projects/esp/temperature/build/esp-idf/mqtt/libmqtt.a
 /home/michaelfraczek/projects/esp/temperature/build/esp-idf/perfmon/libperfmon.a
 /home/michaelfraczek/projects/esp/temperature/build/esp-idf/spiffs/libspiffs.a
+/home/michaelfraczek/projects/esp/temperature/build/esp-idf/u8g2/lib..a
 /home/michaelfraczek/projects/esp/temperature/build/esp-idf/ulp/libulp.a
 /home/michaelfraczek/projects/esp/temperature/build/esp-idf/wifi_provisioning/libwifi_provisioning.a
 /home/michaelfraczek/projects/esp/temperature/build/esp-idf/main/libmain.a

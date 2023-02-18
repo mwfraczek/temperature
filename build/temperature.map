@@ -7144,6 +7144,7 @@ LOAD esp-idf/json/libjson.a
 LOAD esp-idf/mqtt/libmqtt.a
 LOAD esp-idf/perfmon/libperfmon.a
 LOAD esp-idf/spiffs/libspiffs.a
+LOAD esp-idf/u8g2/lib..a
 LOAD esp-idf/ulp/libulp.a
 LOAD esp-idf/wifi_provisioning/libwifi_provisioning.a
 LOAD esp-idf/main/libmain.a
@@ -7164,6 +7165,7 @@ LOAD esp-idf/sdmmc/libsdmmc.a
 LOAD esp-idf/mqtt/libmqtt.a
 LOAD esp-idf/perfmon/libperfmon.a
 LOAD esp-idf/spiffs/libspiffs.a
+LOAD esp-idf/u8g2/lib..a
 LOAD esp-idf/wifi_provisioning/libwifi_provisioning.a
 LOAD esp-idf/protocomm/libprotocomm.a
 LOAD esp-idf/console/libconsole.a

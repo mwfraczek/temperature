@@ -338,15 +338,6 @@ esp-idf_IS_TOP_LEVEL:STATIC=OFF
 esp-idf_SOURCE_DIR:STATIC=/home/michaelfraczek/projects/esp/esp-idf
 
 //Value Computed by CMake
-main_BINARY_DIR:STATIC=/home/michaelfraczek/projects/esp/temperature/build
-
-//Value Computed by CMake
-main_IS_TOP_LEVEL:STATIC=ON
-
-//Value Computed by CMake
-main_SOURCE_DIR:STATIC=/home/michaelfraczek/projects/esp/temperature
-
-//Value Computed by CMake
 mbed TLS_BINARY_DIR:STATIC=/home/michaelfraczek/projects/esp/temperature/build/esp-idf/mbedtls/mbedtls
 
 //Value Computed by CMake
@@ -517,7 +508,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_NM
 CMAKE_NM-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=82
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=83
 //ADVANCED property for variable: CMAKE_OBJCOPY
 CMAKE_OBJCOPY-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_OBJDUMP

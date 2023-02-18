@@ -379,6 +379,11 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
+  include("/home/michaelfraczek/projects/esp/temperature/build/esp-idf/u8g2/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
   include("/home/michaelfraczek/projects/esp/temperature/build/esp-idf/ulp/cmake_install.cmake")
 endif()
 

@@ -1,15 +1,13 @@
 #include <stdio.h>
-//#include <string.h>
-//#include <stdlib.h>
 //#include <driver/gpio.h>
 #include <driver/adc.h>
 //#include <driver/i2c.h>
 //#include <esp_adc/adc_oneshot.h>
-//#include <esp_adc/adc_continuous.h>
-//#include <esp_err.h>
-//#include <esp_log.h>
+//#include <esp_adc/adc_continuous>
 #include <freertos/FreeRTOS.h>
 #include <freertos/task.h>
+#include <u8g2.h>
+#include "u8g2_esp32_hal.h"
 
 void app_main(void)
 {
