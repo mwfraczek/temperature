@@ -1,4 +1,4 @@
-# Install script for directory: /home/michaelfraczek/projects/esp/esp-idf/components/u8g2
+# Install script for directory: /home/michaelfraczek/projects/esp/temperature/components/u8g2
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
